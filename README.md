@@ -1,3 +1,5 @@
+# This is my frist project related with React in which  i use NEWS Api and get the data.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
